@@ -22,3 +22,9 @@ This is a basic calculator web application built using HTML, CSS, and JavaScript
 
    ```bash
    git clone https://github.com/yourusername/calculator-app.git
+   
+## Installation
+   No complex installation steps are required. Simply clone the repository and open the index.html file in your preferred web browser.
+
+   ```bash
+   git clone https://github.com/yourusername/calculator-app.git
