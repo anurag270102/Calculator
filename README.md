@@ -6,10 +6,8 @@ This is a basic calculator web application built using HTML, CSS, and JavaScript
 
 - [Features](#features)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
